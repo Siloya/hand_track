@@ -15,7 +15,7 @@ This project uses **OpenCV** and **MediaPipe** to detect a hand through the webc
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
