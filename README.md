@@ -22,7 +22,8 @@ Ce projet utilise **OpenCV** et **MediaPipe** pour détecter une main via la web
    git clone https://github.com/votre-utilisateur/nom-du-projet.git
    cd nom-du-projet  ```
 2. Créer un environnement virtuel (optionnel mais recommandé)
-  ```bash python -m venv venv
+  ```bash
+   python -m venv venv
    source venv/bin/activate  # Sous Windows : venv\Scripts\activate
     ```
 
