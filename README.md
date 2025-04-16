@@ -1,33 +1,39 @@
-#  Hand Tracking & Finger Counting with OpenCV & MediaPipe
+# ✋ Hand Tracking & Finger Counting with OpenCV & MediaPipe
 
-Ce projet utilise **OpenCV** et **MediaPipe** pour détecter une main via la webcam et compter le nombre de doigts levés en temps réel. Le résultat est affiché directement à l'écran avec les points de repère (landmarks) de la main dessinés.
+This project uses **OpenCV** and **MediaPipe** to detect a hand through the webcam and count the number of raised fingers in real time. The result is displayed directly on the screen, along with the hand landmarks.
 
-## Fonctionnalités
+## 💡 Features
 
-- Suivi en temps réel d'une seule main via webcam
-- Détection et affichage des doigts levés
-- Visualisation des points et connexions de la main
-- Affichage dynamique du nombre de doigts détectés
+- Real-time tracking of a single hand via webcam
+- Detection and display of raised fingers
+- Visualization of hand landmarks and connections
+- Dynamic display of the number of detected fingers
 
-## Technologies
+## 🔧 Technologies
 
 - [Python 3](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 
-## Installation
+## ⚙️ Installation
 
-1. Clone le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
-   cd nom-du-projet  
+1. Clone the repository:
 
-2. Installer les dépendances
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+
+2. Install the dependencies:
    ```bash
    pip install opencv-python mediapipe
 
- ## Exécution
+ ## Run the project
  ```bash
   python hand_finger_detection.py
  ```
-Appuie sur q pour fermer la fenêtre de la webcam.
+Press q to close the webcam window
+
+## Demo
+![Demo Image](screen/image1.png)
+![Demo Image](screen/image2.png)
+
