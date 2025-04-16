@@ -20,8 +20,8 @@ Ce projet utilise **OpenCV** et **MediaPipe** pour détecter une main via la web
 1. Clone le dépôt :
    ```bash
    git clone https://github.com/votre-utilisateur/nom-du-projet.git
-   cd nom-du-projet  ```
+   cd nom-du-projet  
 
 2. Installer les dépendances
    ```bash
-   pip install opencv-python mediapipe ```
+   pip install opencv-python mediapipe 
