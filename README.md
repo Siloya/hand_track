@@ -24,4 +24,9 @@ Ce projet utilise **OpenCV** et **MediaPipe** pour détecter une main via la web
 
 2. Installer les dépendances
    ```bash
-   pip install opencv-python mediapipe 
+   pip install opencv-python mediapipe
+
+ ## Exécution
+ ```bash
+python hand_finger_detection.py
+Appuie sur q pour fermer la fenêtre de la webcam.
