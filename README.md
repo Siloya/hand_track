@@ -1,15 +1,15 @@
-# ✋ Hand Tracking & Finger Counting with OpenCV & MediaPipe
+#  Hand Tracking & Finger Counting with OpenCV & MediaPipe
 
 This project uses **OpenCV** and **MediaPipe** to detect a hand through the webcam and count the number of raised fingers in real time. The result is displayed directly on the screen, along with the hand landmarks.
 
-## 💡 Features
+##  Features
 
 - Real-time tracking of a single hand via webcam
 - Detection and display of raised fingers
 - Visualization of hand landmarks and connections
 - Dynamic display of the number of detected fingers
 
-## 🔧 Technologies
+##  Technologies
 
 - [Python 3](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
